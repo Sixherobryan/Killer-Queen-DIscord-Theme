@@ -1,6 +1,6 @@
 /**
 * @name KillerQueen
-* @version Auto Update
+* @version 1.0
 * @description By Sixherobryan - Based on the NotAnotherAnimeTheme theme
 * @author Sixherobryan
 * @invite none
@@ -45,16 +45,16 @@
 --channel-limit-count-color: #43b581;
 --channel-limit-background-left: #c8c8c81a;
 --channel-limit-background-right: #c8c8c833;
---scrollbar-color: #c8c8c833;
+--scrollbar-color: #B9F400;
 --unread-message-divider-color: #f04747;
 --unread-message-divider-font-color: #ffffff;
 --new-messages-bar-background-color: #7289da;
 --new-messages-bar-font-color: #ffffff;
---emoji-menu-background-color: #ffffff;
---emoji-menu-sider-background-color: #ffffff;
---emoji-menu-server-header-background-color: #ffffff;
---emoji-menu-bottom-bar-background-color: #ffffff;
---emoji-menu-search-bar-background-color: #ffffff;
+--emoji-menu-background-color: #460B45;
+--emoji-menu-sider-background-color: #460B45;
+--emoji-menu-server-header-background-color: #460B45;
+--emoji-menu-bottom-bar-background-color: #3C0B45;
+--emoji-menu-search-bar-background-color: #3C0B3B;
 --message-search-menu-background-color: #000000cc;
 --message-search-container-background-color: #00000099;
 --message-search-result-background-color: #c8c8c80d;
@@ -64,7 +64,7 @@
 --unread-text-channel-color: #FF03CBFF;
 --unread-text-channel-bubble-color: #FF4DEBFF;
 --folder-background-color: #2f3136;
---expanded-folder-background-color: #00000000;
+--expanded-folder-background-color: #1D0B1C;
 --reaction-emoji-background-color: #00000000;
 --reaction-emoji-border-color: 1px solid transparent;
 --reaction-emoji-hover-background-color: #ffffff1a;
